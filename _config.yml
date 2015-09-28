@@ -8,8 +8,8 @@ permalink:           /:title
 relative_permalinks: true
 
 # Setup
-timezone:            your timezone # eg. Asia/Kathmandu
-locale:              your locale language # eg. en_us
+timezone:            Asia/Korea # eg. Asia/Kathmandu
+locale:              kor # eg. en_us
 name:				         yaena's portfolio
 title:               yaena's portfolio
 tagline:             'tagline'
