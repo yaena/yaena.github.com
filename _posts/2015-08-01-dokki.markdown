@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "독기"
+title:  "독기(讀記)"
 date:   2015-08-01 01:00:00
 last_modified_at:  2015-08-01 01:00:00
 excerpt: "Walter Elias Disney was an American entrepreneur, cartoonist, animator, voice actor, and film producer. As a prominent..."
-categories: history
+categories: 석사논문
 tags:  disney
 image:
   feature: dokki_bg.jpg
@@ -13,7 +13,6 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Source: [Wikipedia](https://en.wikipedia.org/wiki/Walt_Disney)
 
 Walter Elias "Walt" Disney (/ˈdɪzni/; December 5, 1901 – December 15, 1966) was an American entrepreneur, cartoonist, animator, voice actor, and film producer. As a prominent figure within the American animation industry and throughout the world, he is regarded as a cultural icon, known for his influence and contributions to entertainment during the 20th century. As a Hollywood business mogul, he and his brother Roy O. Disney co-founded The Walt Disney Company.
 

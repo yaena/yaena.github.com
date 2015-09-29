@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Television and later films"
-date:   1983-12-16 01:00:00
-date:   1983-12-16 01:00:00
+title:  "PALM READER"
+date:   2014-11-16 01:00:00
+date:   2014-11-16 01:00:00
 excerpt: "Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was..."
 categories: history
 tags:  mickey
 image:
-  feature: mickey-tv.jpg
+  feature: palmreader_bg.jpg
   topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker

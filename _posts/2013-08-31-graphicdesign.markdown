@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Comics"
-date:   1930-01-13 01:00:00
-date:   1930-01-13 01:00:00
+title:  "GRAPHIC DESIGN"
+date:   2013-08-31 01:00:00
+date:   2013-08-31 01:00:00
 excerpt: "Mickey first appeared in comics after he had appeared in 15 commercially successful animated shorts and was easily recognized by ..."
-categories: history
+categories: DESIGN
 tags:  mickey
 image:
   feature: mickey-comics.jpg
@@ -13,7 +13,6 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Source: [Wikipedia](https://en.wikipedia.org/wiki/Mickey_Mouse)
 
 Mickey first appeared in comics after he had appeared in 15 commercially successful animated shorts and was easily recognized by the public. Walt Disney was approached by King Features Syndicate with the offer to license Mickey and his supporting characters for use in a comic strip. Disney accepted and Mickey made his first comic strip appearance on January 13, 1930. The comical plot was credited to Disney himself, art to Ub Iwerks and inking to Win Smith. The first week or so of the strip featured a loose adaptation of "Plane Crazy". Minnie soon became the first addition to the cast. The strips first released between January 13, 1930, and March 31, 1930, has been occasionally reprinted in comic book form under the collective title "Lost on a Desert Island". Animation historian Jim Korkis notes "After the eighteenth strip, Iwerks left and his inker, Win Smith, continued drawing the gag-a-day format..."[49]
 
