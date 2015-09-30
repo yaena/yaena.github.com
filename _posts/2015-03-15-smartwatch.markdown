@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "MOTION GRAPHIC"
-date:   2013-08-31 01:00:00
-date:   2013-08-31 01:00:00
+title:  "SMART WATCH"
+date:   2015-03-15 01:00:00
+date:   2015-03-15 01:00:00
 excerpt: "In Mickey's early films he was often characterized not as a hero, but as an ineffective young suitor to Minnie Mouse..."
 categories: DESIGN
 tags:  mickey
 image:
-  feature: mickey-1929.jpg
+  feature: smartwatch_bg.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker

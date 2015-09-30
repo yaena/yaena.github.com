@@ -7,7 +7,7 @@ excerpt: "Mickey first appeared in comics after he had appeared in 15 commercial
 categories: DESIGN
 tags:  mickey
 image:
-  feature: mickey-comics.jpg
+  feature: graphicdesign_bg.jpg
   topPosition: -100px
 bgContrast: dark
 bgGradientOpacity: darker
