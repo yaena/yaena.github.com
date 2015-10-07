@@ -35,3 +35,5 @@ syntaxHighlighter: no
 <blockquote class="smallQuote">“얼굴을 보고 직접 대화할 수 없는 온라인 커뮤니케이션 환경에서 
 상대방에게 나의 감정을 오해없이 전달하고 싶다.” </blockquote>
 
+
+
