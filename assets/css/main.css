@@ -246,10 +246,11 @@ html {
 
 /* Copy & Lists */
 p {
-  line-height: 1.5rem;
+  line-height: 1.3rem;
   letter-spacing: .01rem;
-  margin-top: 1.5rem;
+  margin-top: .8rem;
   margin-bottom: 0;
+  font-size: .8rem;
 }
 
 p.u--startsWithDoubleQuote {
@@ -280,6 +281,7 @@ blockquote {
   padding-left: 25px;
   margin-left: -29px;
   border-left: 4px solid #222;
+  font-size: .8rem;
 }
 @media (max-width: 767px) {
   blockquote {
@@ -318,9 +320,9 @@ h5,
 h6 {
   /* Change heading typefaces here */
   font-family: "PT Sans", sans-serif;
-  margin-top: 1.5rem;
+  margin-top: 1.1rem;
   margin-bottom: 0;
-  line-height: 1.5rem;
+  line-height: 1.1rem;
   letter-spacing: -0.02em;
 }
 
@@ -348,11 +350,16 @@ h3 {
 }
 
 h4 {
-  font-size: 1.333rem;
+  font-family: "Roboto", sans-serif;
+  font-size: 1.1rem;
+  line-height: 1.0rem;
+  margin-top: 1.3rem;
+  color: #00246B;
 }
 
 h5 {
   font-size: 1.0664rem;
+  font-color:;
 }
 
 h6 {

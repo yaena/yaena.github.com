@@ -8,7 +8,7 @@ categories: 산학프로젝트
 tags:  mickey
 image:
   feature: mywishbag_bg.jpg
-  topPosition: -200px
+  topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no

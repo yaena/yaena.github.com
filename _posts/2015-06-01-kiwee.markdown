@@ -3,7 +3,7 @@ layout: post
 title:  "KIWEE"
 date:   2015-06-01 01:00:00
 last_modified_at:  2015-06-01 01:00:00
-excerpt: "Mickey Mouse is a funny animal cartoon character and the official mascot of..."
+excerpt: 소셜미디어 환경에서 감성전달을 위한 키네틱 타이포그래피 기술 개발
 categories: 산학프로젝트
 tags:  mickey
 image:
@@ -13,13 +13,25 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
+<h4> ABOUT </h4>
 
-<h2> CONCEPT </h2>
+2014-2015 <br/>
+[소셜미디어 환경에서 감성전달을 위한 키네틱 타이포그래피 기술 개발] <br/>
+지식경제부 산업융합원천기술개발산업 연구과제 <br/>
+학생 6명, 교수 1명 <br/>
+역할 : 팀원, 키네틱타이포그래피 단위 움직임 요소 분석 / 키네틱타이포그래피 효과 디자인 / UI디자인 / 유저테스트
+
+<h4> CONCEPT </h4>
 
 무드 종류와 에너지 수준에 따라 문장 단위 텍스트에 적용할 수 있는 키네틱타이포그래피 메신저 'KIWEE' (Kinetic typography Instant messenger With Emotional Expression) 개발 
 
-<blockquote class="largeQuote">“Don't Stress Over Anything You Can't Change.” <br/>- Mickey Mouse</blockquote>
+<h4> TARGET </h4>
+모바일 환경에서 텍스트만으로 실시간 대화를 주고 받는 사용자
 
-Beginning in 1930, Mickey has also been featured extensively as a comic strip character. His self-titled newspaper strip, drawn primarily by Floyd Gottfredson, ran for 45 years. Mickey has also appeared in comic books and in television series such as The Mickey Mouse Club (1955–1996) and others. He also appears in other media such as video games as well as merchandising, and is a meetable character at the Disney parks.
+<h4> BACKGROUND </h4>
 
-Mickey generally appears alongside his girlfriend Minnie Mouse, his pet dog Pluto, his friends Donald Duck, and Goofy, and his nemesis Pete, among others (see Mickey Mouse universe). Originally characterized as a mischievous antihero, Mickey's increasing popularity led to his being rebranded as an everyman, usually seen as a flawed, but adventurous hero. In 2009, Disney began to rebrand the character again by putting less emphasis on his pleasant, cheerful side and reintroducing the more mischievous and adventurous sides of his personality, beginning with the video game Epic Mickey.
+다양한 소셜 미디어에서 이루어지는 텍스트 기반의 커뮤니케이션은 감정을 표현하고 전달하는 데 한계를 지님 <br/>
+
+<blockquote class="smallQuote">“얼굴을 보고 직접 대화할 수 없는 온라인 커뮤니케이션 환경에서 
+상대방에게 나의 감정을 오해없이 전달하고 싶다.” </blockquote>
+
