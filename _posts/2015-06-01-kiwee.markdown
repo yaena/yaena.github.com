@@ -13,7 +13,7 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-<h4> ABOUT </h4>
+<h5> ABOUT </h5>
 
 2014-2015 <br/>
 [소셜미디어 환경에서 감성전달을 위한 키네틱 타이포그래피 기술 개발] <br/>
@@ -21,14 +21,14 @@ syntaxHighlighter: no
 학생 6명, 교수 1명 <br/>
 역할 : 팀원, 키네틱타이포그래피 단위 움직임 요소 분석 / 키네틱타이포그래피 효과 디자인 / UI디자인 / 유저테스트
 
-<h4> CONCEPT </h4>
+<h5> CONCEPT </h5>
 
 무드 종류와 에너지 수준에 따라 문장 단위 텍스트에 적용할 수 있는 키네틱타이포그래피 메신저 'KIWEE' (Kinetic typography Instant messenger With Emotional Expression) 개발 
 
-<h4> TARGET </h4>
+<h5> TARGET </h5>
 모바일 환경에서 텍스트만으로 실시간 대화를 주고 받는 사용자
 
-<h4> BACKGROUND </h4>
+<h5> BACKGROUND </h5>
 
 다양한 소셜 미디어에서 이루어지는 텍스트 기반의 커뮤니케이션은 감정을 표현하고 전달하는 데 한계를 지님 <br/>
 
