@@ -14,14 +14,57 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was created for the 5th Academy Awards ceremony and was not released to the public. Mickey's official first color film came in 1935 with The Band Concert. The Technicolor film process was used in the film production. Here Mickey conducted the William Tell Overture, but the band is swept up by a tornado. It is said that conductor Arturo Toscanini so loved this short that, upon first seeing it, he asked the projectionist to run it again. In 1994, The Band Concert was voted the third-greatest cartoon of all time in a poll of animation professionals. By colorizing and partially redesigning Mickey, Walt would put Mickey back on top once again, and Mickey would reach popularity he never reached before as audiences now gave him more appeal.[34] Also in 1935, Walt would receive a special award from the League of Nations for creating Mickey.
+2015 <br/>
+[CJ오쇼핑 산학 프로젝트] <br/>
+학생 4명, 교수 1명 <br/>
+역할 : 프로젝트 리더, 설문 / Contextual Design / 퍼소나 / 와이어프레임 프로토타입 / GUI 디자인 제작 <br/>
 
-However, by 1938, the more manic Donald Duck would surpass the passive Mickey, resulting in a redesign of the mouse between 1938 and 1940 that put Mickey at the peak of his popularity.[34] The second half of the 1930s saw the character Goofy reintroduced as a series regular. Together, Mickey, Donald Duck, and Goofy would go on several adventures together. Several of the films by the comic trio are some of Mickey's most critically acclaimed films, including Mickey's Fire Brigade (1935), Moose Hunters (1937), Clock Cleaners (1937), Lonesome Ghosts (1937), Boat Builders (1938), and Mickey's Trailer (1938). Also during this era, Mickey would star in Brave Little Tailor (1938), an adaptation of The Valiant Little Tailor, which was nominated for an Academy Award.
+컨셉: 쇼핑몰, SNS 관계없이 내가 찜한 건 모두 한 번에 모아서 비교, 검색해주는 통합 장바구니 서비스<br/>
 
-Mickey was redesigned by animator Fred Moore which was first seen in The Pointer (1939). Instead of having solid black eyes, Mickey was given white eyes with pupils, a Caucasian skin colored face, and a pear-shaped body. In the 40's, he changed once more in The Little Whirlwind, where he used his trademark pants for the last time in decades, lost his tail, got more realistic ears that changed with perspective and a different body anatomy. But this change would only last for a short period of time before returning to the one in "The Pointer", with the exception of his pants. In his final theatrical cartoons in the 1950s, he was given eyebrows, which were removed in the more recent cartoons.
+<h5><span> TARGET </span></h5>
+모바일을 통해 물건을 구매하는 20-30대 여성
 
-In 1940 Mickey appeared in his first feature-length film, Fantasia. His screen role as The Sorcerer's Apprentice, set to the symphonic poem of the same name by Paul Dukas, is perhaps the most famous segment of the film and one of Mickey's most iconic roles. The segment features no dialogue at all, only the music. The apprentice (Mickey), not willing to do his chores, puts on the sorcerer's magic hat after the sorcerer goes to bed and casts a spell on a broom, which causes the broom to come to life and perform the most tiring chore—filling up a deep well using two buckets of water. When the well eventually overflows, Mickey finds himself unable to control the broom, leading to a near-flood. After the segment ends, Mickey is seen in silhouette shaking hands with Leopold Stokowski, who conducts all the music heard in Fantasia. Mickey has often been pictured in the red robe and blue sorcerer's hat in merchandising. It was also featured into the climax of Fantasmic!, an attraction at the Disney theme parks.
+<h5><span> BACKGROUND </span> </h5>
 
-After 1940, Mickey's popularity would decline until his 1955 re-emergence as a daily children's television personality.[35] Despite this, the character continued to appear regularly in animated shorts until 1943 (winning his only competitive Academy Award—with canine companion Pluto—for a short subject, Lend a Paw) and again from 1946 to 1952.
+모바일 쇼핑시 스크린 크기의 제약으로 인한 통합적 비교가 어려움 <br/>
+구매결정 전까지 여러 사이트와 게시판을 이동하고 접속을 반복하는 과정 가운데 많은 반복행위 (CLICK/BACK) 발생 <br/>
+<blockquote class="smallQuote">“봄이 오니 봄원피스를 사고 싶은데 정확히 뭘 살지 모르겠어요. 이럴 땐 다양한 사이트를 통해 여러 상품 정보를 수집하고, 마음에 드는 상품들을 캡쳐해놓은 후 비교해보고 결정해요.” - USER NEEDS</blockquote>
 
-The last regular installment of the Mickey Mouse film series came in 1953 with The Simple Things in which Mickey and Pluto go fishing and are pestered by a flock of seagulls.
+<img src="../assets/images/posts/mywishbag_problem1.png" alt= "mywishbagproblem" style="width: 300px;">
+
+<blockquote class="smallQuote"> "쇼핑몰, SNS 관계없이 내가 찜한 건 모두 한 번에 모아서 비교, 검색해주는 통합 장바구니 서비스를 제공한다" - SOLUTION </blockquote>
+
+<img src="../assets/images/posts/mywishbag_problem2.png" alt= "mywishbag_solution" style="width: 300px;">
+
+<h5> <span> PROCESS </span> </h5>
+
+<strong><big> 1. 온라인쇼핑 패턴 파악 </big> </strong> <br/>
+
+1) 온라인쇼핑 패턴 설문조사 <br/>
+2) 포커스 인터뷰 : 모바일 쇼핑에 익숙한 20대 여성 대상 (think aloud)
+<div class="img img--fullContainer img--8xLeading" style="background-image: url({{ site.baseurl_posts_img }}mywishbag_process1.png);" alt= "mywishbag_prototype"></div>
+
+<strong><big> 2. 온라인쇼핑 개선사항 파악 </big> </strong> <br/>
+
+1) CD(Contextual Design) : 모바일쇼핑 과정 중 물품정보 수집부터 결제하기 직전까지 과정을 CD로 제작 (Flow Model, Sequence Model, Cultural Model, Artifact Model)<br/>
+<img src="../assets/images/posts/mywishbag_process2.png" alt= "mywishbag_process" style="width: 300px;">
+
+2) 퍼소나 및 시나리오 제작 <br/>
+
+<strong> <big> 3. 어플리케이션 디자인 </big> </strong> <br/>
+
+1) 프로토타입: 페이퍼프로토타입 / 와이어 프로토타입
+
+<div class="img img--fullContainer img--7xLeading" style="background-image: url({{ site.baseurl_posts_img }}mywishbag_process3.png);" alt= "mywishbag_prototype"></div>
+
+2) 최종 어플리케이션 디자인
+
+<h5> <span> WORK MODELING </span> </h5>
+<div class="img img--15xLeading" style="background-image: url({{ site.baseurl_posts_img }}mywishbag_workmodeling_01.jpg);"></div> 
+<div class="img img--15xLeading" style="background-image: url({{ site.baseurl_posts_img }}mywishbag_workmodeling_02.jpg);"></div> 
+<div class="img img--15xLeading" style="background-image: url({{ site.baseurl_posts_img }}mywishbag_workmodeling_03.jpg);"></div>
+
+<h5> <span> DESIGN </span> </h5>
+
+<div class="img img--fullContainer img--15xLeading" style="background-image: url({{ site.baseurl_posts_img }}mywishbag_design_01.jpg);"></div>
+<div class="img img--fullContainer img--15xLeading" style="background-image: url({{ site.baseurl_posts_img }}mywishbag_design_02.jpg);"></div>
