@@ -60,6 +60,8 @@ syntaxHighlighter: no
 2) 최종 어플리케이션 디자인
 
 <h5> <span> WORK MODELING </span> </h5>
+
+<img src="../assets/images/posts/mywishbag_workmodeling_02.jpg" alt= "mywishbag_solution" style="width: 600px;">
 <div class="img img--15xLeading" style="background-image: url({{ site.baseurl_posts_img }}mywishbag_workmodeling_01.jpg);"></div> 
 <div class="img img--15xLeading" style="background-image: url({{ site.baseurl_posts_img }}mywishbag_workmodeling_02.jpg);"></div> 
 <div class="img img--15xLeading" style="background-image: url({{ site.baseurl_posts_img }}mywishbag_workmodeling_03.jpg);"></div>
