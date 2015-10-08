@@ -38,33 +38,34 @@ syntaxHighlighter: no
 
 <h5> <span> PROCESS </span> </h5>
 
-<strong><big> 1. 온라인쇼핑 패턴 파악 </big> </strong> <br/>
+<h6><strong> 1. 온라인쇼핑 패턴 파악  </strong></h6> 
 
 1) 온라인쇼핑 패턴 설문조사 <br/>
-2) 포커스 인터뷰 : 모바일 쇼핑에 익숙한 20대 여성 대상 (think aloud)
-<div class="img img--fullContainer img--8xLeading" style="background-image: url({{ site.baseurl_posts_img }}mywishbag_process1.png);" alt= "mywishbag_prototype"></div>
+2) 포커스 인터뷰 : 모바일 쇼핑에 익숙한 20대 여성 대상 (think aloud)<br/>
+<img src="../assets/images/posts/mywishbag_process1.jpg" alt= "mywishbag_process1"><img src="../assets/images/posts/mywishbag_process2.jpg" alt= "mywishbag_process2">
 
-<strong><big> 2. 온라인쇼핑 개선사항 파악 </big> </strong> <br/>
+<h6> <strong>2. 온라인쇼핑 개선사항 파악 </strong></h6> 
 
 1) CD(Contextual Design) : 모바일쇼핑 과정 중 물품정보 수집부터 결제하기 직전까지 과정을 CD로 제작 (Flow Model, Sequence Model, Cultural Model, Artifact Model)<br/>
-<img src="../assets/images/posts/mywishbag_process2.png" alt= "mywishbag_process" style="width: 300px;">
+
 
 2) 퍼소나 및 시나리오 제작 <br/>
 
-<strong> <big> 3. 어플리케이션 디자인 </big> </strong> <br/>
+<h6> <strong> 3. 어플리케이션 디자인 </strong></h6>
 
-1) 프로토타입: 페이퍼프로토타입 / 와이어 프로토타입
-
-<div class="img img--fullContainer img--7xLeading" style="background-image: url({{ site.baseurl_posts_img }}mywishbag_process3.png);" alt= "mywishbag_prototype"></div>
+1) 프로토타입: 페이퍼프로토타입 / 와이어 프로토타입 <br/>
+<img src="../assets/images/posts/mywishbag_process3.jpg" alt= "mywishbag_process3">
+<img src="../assets/images/posts/mywishbag_process4.jpg" alt= "mywishbag_process4">
 
 2) 최종 어플리케이션 디자인
 
 <h5> <span> WORK MODELING </span> </h5>
 
-<img src="../assets/images/posts/mywishbag_workmodeling_02.jpg" alt= "mywishbag_solution" style="width: 600px;">
-<div class="img img--15xLeading" style="background-image: url({{ site.baseurl_posts_img }}mywishbag_workmodeling_01.jpg);"></div> 
-<div class="img img--15xLeading" style="background-image: url({{ site.baseurl_posts_img }}mywishbag_workmodeling_02.jpg);"></div> 
-<div class="img img--15xLeading" style="background-image: url({{ site.baseurl_posts_img }}mywishbag_workmodeling_03.jpg);"></div>
+<img src="../assets/images/posts/mywishbag_workmodeling_01.jpg" alt= "mywishbag_workmodeling1">
+<img src="../assets/images/posts/mywishbag_workmodeling_02.jpg" alt= "mywishbag_workmodeling2">
+<img src="../assets/images/posts/mywishbag_workmodeling_03.jpg" alt= "mywishbag_workmodeling3">
+<img src="../assets/images/posts/mywishbag_workmodeling_04.jpg" alt= "mywishbag_workmodeling4">
+<img src="../assets/images/posts/mywishbag_workmodeling_05.jpg" alt= "mywishbag_workmodeling5">
 
 <h5> <span> DESIGN </span> </h5>
 
