@@ -60,19 +60,18 @@ syntaxHighlighter: no
 
 <u> 자동화 알고리즘을 통한 키네틱 타이포그래피 효과의 생성 시스템 아키텍처 </u>
 
-
-<div class="img img--fullContainer img--7xLeading" style="background-image: url({{ site.baseurl_posts_img }}kiwee_process4.png);" alt= "kiwee_kinetictypography effect system architecture"></div>
+<img src="../assets/images/posts/kiwee_process4.jpg" alt= "kiwee_process4" align="top" style="padding-bottom: 15px;"><img src="../assets/images/posts/kiwee_process5.jpg" alt= "kiwee_process5" align="top" style="padding-bottom: 15px;">
 
 
 Text Processing <br/>
 토큰화(tokenization): 텍스트를 단어 혹은 구절 등 특정한 단위로 나눔 (토큰화하는 기본 단위: 문장 내의 띄어쓰기를 기준으로 삼아 구분되는 “단어”) <br/>
 분류/태깅(tagging): 토큰을 품사 기준으로 분류. 문장 내에서 의미의 상대적인 중요성이 품사 별로 달라진다는 사실에 입각 (관사 및 전치사 < 동사나 부사) <br/>
 스코어링(scoring): 각 품사별로 단어에 가중치를 매긴 뒤, 스코어가 가장 높은 두 단어 혹은 세 단어를 선정 - 키네틱 타이포그래피는 선정된 단어에만 적용 <br/>
-<br/>
+
 Text Layout <br/>
 토큰화된 단어를 다시 원래 문장으로 조합한 뒤 스크린에 띄우기: 워들(Wordle) 알고리즘을 사용해 워드 클라우드 형태(구름 모양을 한 레이아웃 안에 서로 다른 크기의 단어를 나열하는 방식)의 레이아웃 형식을 적용 <br/>
 워드 클라우드 레이아웃 사용을 위한 단어별 서로 다른 가중치 부여 알고리즘: 리클라우드(ReCloud) 사용 (표현하고자 하는 감정값이 입력되면 각 단어들은 "감정의 에너지 수준”에 따라 단어가 나타나는 크기가 결정) <br/>
-<br/>
+
 Kinetic Effects Assignment <br/>
 감정 : 무드와 에너지 축으로 존재 (같은 무드라고 하더라도 에너지의 정도에 따라 다른 감정) <br/>
 에너지 : 에너지 값이 높아질수록 텍스트의 크기도 커지고 공간을 차지하는 비율이 늘어나도록 설계. 움직임의 크기는 에너지에 비례 <br/>
@@ -84,8 +83,7 @@ Kinetic Effects Assignment <br/>
 2) 실험 : 키네틱 타이포그래피 효과 및 메신저 유저테스트
 
 <h5> <span> WORK MODELING </span> </h5>
-<u> 대화창 </u>
-<div class="img img--fullContainer img--16xLeading" style="background-image: url({{ site.baseurl_posts_img }}kiwee_workmodeling1.png);"></div>
+<img src="../assets/images/posts/kiwee_workmodeling2.jpg" alt= "kiwee_workmodeling2" align="top" style="padding-bottom: 25px;"><img src="../assets/images/posts/kiwee_workmodeling1.jpg" alt= "kiwee_workmodeling1" align="top">
 
 <h5> <span> DESIGN </span> </h5>
 

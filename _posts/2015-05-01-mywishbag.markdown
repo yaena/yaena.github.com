@@ -13,6 +13,7 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
+<h5><span> ABOUT </span> </h5>
 
 2015 <br/>
 [CJ오쇼핑 산학 프로젝트] <br/>
@@ -42,7 +43,7 @@ syntaxHighlighter: no
 
 1) 온라인쇼핑 패턴 설문조사 <br/>
 2) 포커스 인터뷰 : 모바일 쇼핑에 익숙한 20대 여성 대상 (think aloud)<br/>
-<img src="../assets/images/posts/mywishbag_process1.jpg" alt= "mywishbag_process1"><img src="../assets/images/posts/mywishbag_process2.jpg" alt= "mywishbag_process2">
+<img src="../assets/images/posts/mywishbag_process1.jpg" alt= "mywishbag_process1" style="width:205px;"><img src="../assets/images/posts/mywishbag_process2.jpg" alt= "mywishbag_process2" style="width:200px;">
 
 <h6> <strong>2. 온라인쇼핑 개선사항 파악 </strong></h6> 
 
@@ -61,13 +62,8 @@ syntaxHighlighter: no
 
 <h5> <span> WORK MODELING </span> </h5>
 
-<img src="../assets/images/posts/mywishbag_workmodeling_01.jpg" alt= "mywishbag_workmodeling1">
-<img src="../assets/images/posts/mywishbag_workmodeling_02.jpg" alt= "mywishbag_workmodeling2">
-<img src="../assets/images/posts/mywishbag_workmodeling_03.jpg" alt= "mywishbag_workmodeling3">
-<img src="../assets/images/posts/mywishbag_workmodeling_04.jpg" alt= "mywishbag_workmodeling4">
-<img src="../assets/images/posts/mywishbag_workmodeling_05.jpg" alt= "mywishbag_workmodeling5">
+<img src="../assets/images/posts/mywishbag_workmodeling_01.jpg" alt= "mywishbag_workmodeling1"><img src="../assets/images/posts/mywishbag_workmodeling_02.jpg" alt= "mywishbag_workmodeling2"><img src="../assets/images/posts/mywishbag_workmodeling_03.jpg" alt= "mywishbag_workmodeling3"><img src="../assets/images/posts/mywishbag_workmodeling_04.jpg" alt= "mywishbag_workmodeling4"><img src="../assets/images/posts/mywishbag_workmodeling_05.jpg" alt= "mywishbag_workmodeling5">
 
 <h5> <span> DESIGN </span> </h5>
 
-<div class="img img--fullContainer img--15xLeading" style="background-image: url({{ site.baseurl_posts_img }}mywishbag_design_01.jpg);"></div>
-<div class="img img--fullContainer img--15xLeading" style="background-image: url({{ site.baseurl_posts_img }}mywishbag_design_02.jpg);"></div>
+<img src="../assets/images/posts/mywishbag_design1.jpg" alt= "mywishbag_design1"><img src="../assets/images/posts/mywishbag_design2.jpg" alt= "mywishbag_design2"><img src="../assets/images/posts/mywishbag_design3.jpg" alt= "mywishbag_design3"><img src="../assets/images/posts/mywishbag_design4.jpg" alt= "mywishbag_design4"><img src="../assets/images/posts/mywishbag_design5.jpg" alt= "mywishbag_design5"><img src="../assets/images/posts/mywishbag_design6.jpg" alt= "mywishbag_design6"><img src="../assets/images/posts/mywishbag_design7.jpg" alt= "mywishbag_design7"><img src="../assets/images/posts/mywishbag_design8.jpg" alt= "mywishbag_design8"><img src="../assets/images/posts/mywishbag_design9.jpg" alt= "mywishbag_design9"><img src="../assets/images/posts/mywishbag_design10.jpg" alt= "mywishbag_design10"><img src="../assets/images/posts/mywishbag_design11.jpg" alt= "mywishbag_design11"><img src="../assets/images/posts/mywishbag_design12.jpg" alt= "mywishbag_design12">
