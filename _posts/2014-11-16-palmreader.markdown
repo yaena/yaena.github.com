@@ -13,20 +13,50 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Source: [Wikipedia](https://en.wikipedia.org/wiki/Mickey_Mouse)
 
-In the 1950s, Mickey became more known for his appearances on television, particularly with The Mickey Mouse Club. Many of his theatrical cartoon shorts were rereleased on television series such as Ink & Paint Club, various forms of the Walt Disney anthology television series, and on home video. Mickey returned to theatrical animation in 1983 with Mickey's Christmas Carol, an adaptation of Charles Dickens' A Christmas Carol in which Mickey played Bob Cratchit. This was followed up in 1990 with The Prince and the Pauper.
+<h5><span> ABOUT </span> </h5>
 
-Throughout the decades, Mickey Mouse competed with Warner Bros.' Bugs Bunny for animated popularity. But in 1988, in a historic moment in motion picture history, the two rivals finally shared screen time in the Robert Zemeckis Disney/Amblin film Who Framed Roger Rabbit. Disney and Warner signed an agreement stating that each character had exactly the same amount of screen time in the scene, right down to the frame.
+2014 <br/>
+[시각장애인의 정보 커뮤니케이션을 위한 웨어러블 컴퓨팅 디자인] <br/>
+학생 4명 <br/>
+역할 : 프로젝트 리더, 인터뷰 및 관찰 / 컨셉아이디어 도출 / 3D 디자인 및 목업 <br/>
 
-Similar to his animated inclusion into a live-action film on Roger Rabbit, Mickey made a featured cameo appearance in the 1990 television special The Muppets at Walt Disney World where he met Kermit the Frog. The two are established in the story as having been old friends. The Muppets have otherwise spoofed and referenced Mickey over a dozen times since the 1970s. Eventually, The Muppets were purchased by the Walt Disney Company in 2004.
+컨셉: 항상 몸에 착용하는 웨어러블 컴퓨팅의 장점을 극대화하여 신체적 한계를 극복하고 필요로 하는 정보를 언제 어디서나 제공받을 수 있는 커뮤니케이션 플랫폼 (정보를 인식하는데 있어 다른 사람들과 구분지어지는 과도한 행동이 나타나지 않도록 손바닥만을 활용한 디자인 / CODE-TAG으로 사물의 어느 부분을 만지더라도 PALM 웨어러블 컴퓨팅이 인식 가능 - 즉각적 정보 커뮤니케이션이 가능) <br/>
+결과: 2014 웨어러블 컴퓨터 경진대회 아이디어 공모전 장려상 수상 (주최: 미래창조과학부 / 주관: KAIST)
 
-Mickey appeared on several animated logos for Walt Disney Home Entertainment, starting with the "Neon Mickey" logo and then to the "Sorcerer Mickey" logos used for regular and Classics release titles.
+<h5><span> TARGET </span></h5>
+일상 생활 속에서 다양한 정보를 비장애인들과 동등하게 제공받기 어려운 시각장애인
 
-His most recent theatrical cartoon short was 2013's Get A Horse! which was preceded by 1995's Runaway Brain, while from 1999 to 2004, he appeared in direct-to-video features like Mickey's Once Upon a Christmas, Mickey, Donald, Goofy: The Three Musketeers and the computer-animated Mickey's Twice Upon a Christmas.
+<h5><span> BACKGROUND </span> </h5>
 
-Many television series have centered around Mickey, such as the ABC shows Mickey Mouse Works (1999—2000), Disney's House of Mouse (2001—2003) and Disney Channel's Mickey Mouse Clubhouse (2006–present). Prior to all these, Mickey was also featured as an unseen character in the Bonkers episode "You Oughta Be In Toons".
+일상생활 속 비장애인들과 장애인들 사이에 정보 활용능력 격차는 점차 더 커지고 있음 <br/>
+현재 시각장애인들을 위한 많은 기기가 존재함에도 불구하고, 그들이 가지고 있는 정보커뮤니케이션 기능에는 한계가 존재함 <br/> 
 
-Mickey has recently been announced to star in two films. One is being based on the Magic Kingdom theme park at the Walt Disney World Resort, while the other is a film idea pitched by Walt Disney Animation Studios veteran Burny Mattinson centering around Mickey, Donald and Goofy.[36]
+<blockquote class="smallQuote">“장볼 때 선반에 있는 제품 혹은 집 안에 구비된 약품과 같은 제품의 상세 정보를 알고 싶거나, 대중교통으로 길을 찾아갈 때, 익숙하지 않은 공간을 파악할 때 등 다양한 상황에서 도와주는 사람 없이 혼자 필요한 정보를 파악한다는 건 불가능에 가깝죠” - USER NEEDS</blockquote>
 
-Since June 28, 2013, Disney Channel has been airing new 3-minute Mickey Mouse shorts. In these new shorts, Mickey has a more modern appearance, but his appearance is also very close to his original 1928 look.[37]
+<blockquote class="smallQuote"> "신체의 감각 중 촉각과 청각을 활용하여 항상 몸에 착용하는 웨어러블 컴퓨팅의 장점을 극대화함으로써, 신체적 한계를 극복하고 필요로 하는 정보를 언제 어디서나 제공받을 수 있는 커뮤니케이션 플랫폼 제안" - SOLUTION </blockquote>
+
+<h5> <span> PROCESS </span> </h5>
+
+<h6><strong> 1. 시각장애인의 정보 커뮤니케이션 문제점 파악  </strong></h6> 
+
+1) 사전 조사 : 시각장애인을 위한 제품은 무엇이 있으며, 보급 형태와 사람들의 사용도 현황 조사 <br/>
+2) 인터뷰 및 관찰 : 하상복지관 20대 학생 및 직장인 시각장애인 인터뷰 / 삼성전자 봉사활동팀 '스마트 엔젤스'와 함께 시각장애인 스마트폰 활용 개선을 위한 봉사활동<br/>
+<br/>
+<img src="../assets/images/posts/palmreader_process1.jpg" alt= "palmreader_process1" style="max-width:405px; max-height: 100px; width: 100%; height: 100%">
+
+<h6> <strong>2. 시각장애인을 위한 정보 커뮤니케이션을 웨어러블 컴퓨터 디자인 </strong></h6> 
+
+1) 컨셉 디자인 및 유저 시나리오 제작<br/>
+2) 프로토타입 디자인: 최종 목업을 제작하기 전, 앞선 유저인터뷰를 바탕으로 다양한 디자인안을 구상 <br/>
+3) 3D 모델링 및 목업제작 <br/>
+
+<h5> <span> DESIGN </span> </h5>
+
+<h6> <strong>1. 구성 </strong></h6> 
+1) 코드를 읽을 수 있는 센서가 내장되어 있는 PALM READER (코드인식 센서: 손바닥 / 베터리 및 파워버튼: 손 등) <br/>
+2) 정보가 내장되어 있는 CODE-TAG (닷코드 기술 활용) <br/>
+3) 음성 안내를 들을 수 있는 무선이어폰 <br/>
+
+<h6> <strong>2. 사용 방법 </strong></h6> 
+<center> <img src="../assets/images/posts/palmreader_design1.jpg" align="top" alt= "palmreader_design1" style="max-width: 184px; max-height: 185px; width:100%; height: 100%"><img src="../assets/images/posts/palmreader_design2.jpg" align="top" alt= "palmreader_design2" style="max-width: 270px; max-height: 185px; width:100%; height: 100%"><img src="../assets/images/posts/palmreader_design3.jpg" align="top" alt= "palmreader_design3" style="max-width: 206px; max-height: 185px; width:100%; height: 100%"></center>

@@ -33,7 +33,7 @@ syntaxHighlighter: no
 
 <img src="../assets/images/posts/kiwee_problem1.png" alt= "kiweeproblem" style="width: 300px;">
 
-<blockquote class="smallQuote"> "텍스트 자체에 움직임을 주는 키네틱 타이포그래피를 대화 문장에 적용하여 상대방에게 실시간으로 자신의 감정을 효과적으로 전달한다" - SOLUTION </blockquote>
+<blockquote class="smallQuote"> "텍스트 자체에 움직임을 주는 키네틱 타이포그래피를 대화 문장에 적용하여 상대방에게 실시간으로 자신의 감정을 효과적으로 전달" - SOLUTION </blockquote>
 
 <img src="../assets/images/posts/kiwee_problem2.png" alt= "kiweesolution" style="width: 300px;">
 
@@ -60,7 +60,7 @@ syntaxHighlighter: no
 
 <u> 자동화 알고리즘을 통한 키네틱 타이포그래피 효과의 생성 시스템 아키텍처 </u>
 
-<img src="../assets/images/posts/kiwee_process4.jpg" alt= "kiwee_process4" align="top" style="padding-bottom: 15px;"><img src="../assets/images/posts/kiwee_process5.jpg" alt= "kiwee_process5" align="top" style="padding-bottom: 15px;">
+<img src="../assets/images/posts/kiwee_process4.jpg" alt= "kiwee_process4" align="top"><img src="../assets/images/posts/kiwee_process5.jpg" alt= "kiwee_process5" align="top">
 
 
 Text Processing <br/>
@@ -83,10 +83,19 @@ Kinetic Effects Assignment <br/>
 2) 실험 : 키네틱 타이포그래피 효과 및 메신저 유저테스트
 
 <h5> <span> WORK MODELING </span> </h5>
-<img src="../assets/images/posts/kiwee_workmodeling2.jpg" alt= "kiwee_workmodeling2" align="top" style="padding-bottom: 25px;"><img src="../assets/images/posts/kiwee_workmodeling1.jpg" alt= "kiwee_workmodeling1" align="top">
+<img src="../assets/images/posts/kiwee_workmodeling2.jpg" alt= "kiwee_workmodeling2" align="top" style="max-width: 378px; max-height: 383px; width:100%; height: 100%"><img src="../assets/images/posts/kiwee_workmodeling1.jpg" alt= "kiwee_workmodeling1" align="top" style= "max-width: 224px; max-height: 331px; width:100%; height: 100%">
 
 <h5> <span> DESIGN </span> </h5>
 
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}kiwee_design1.png);"></div>
-<div class="img img--fullContainer img--16xLeading" style="background-image: url({{ site.baseurl_posts_img }}kiwee_design2.png);"></div>
+<center><img src="../assets/images/posts/kiwee_design1.jpg" alt= "kiwee_design1" style="max-width: 173px; max-height: 368px; width:100%; height: 100%">
+<img src="../assets/images/posts/kiwee_design2.jpg" alt= "kiwee_design2" style="max-width: 168px; max-height: 368px; width:100%; height: 100%">
+<img src="../assets/images/posts/kiwee_design3.jpg" alt= "kiwee_design3" style="max-width: 318px; max-height: 368px; width:100%; height: 100%"></center>
+<center><img src="../assets/images/posts/kiwee_design4.jpg" alt= "kiwee_design4" style="max-width: 660px; max-height: 616px; width:100%; height: 100%"></center>
 
+<br/>
+
+<u> INTERACTION DESIGN </u>
+
+<div class="video-container"> 
+    <iframe width="100%" height="315" src="//www.youtube.com/embed/C1tpDnEjqDc" frameborder="0" allowfullscreen></iframe>
+</div> 

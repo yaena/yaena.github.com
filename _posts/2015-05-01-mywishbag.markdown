@@ -33,7 +33,7 @@ syntaxHighlighter: no
 
 <img src="../assets/images/posts/mywishbag_problem1.png" alt= "mywishbagproblem" style="width: 300px;">
 
-<blockquote class="smallQuote"> "쇼핑몰, SNS 관계없이 내가 찜한 건 모두 한 번에 모아서 비교, 검색해주는 통합 장바구니 서비스를 제공한다" - SOLUTION </blockquote>
+<blockquote class="smallQuote"> "쇼핑몰, SNS 관계없이 내가 찜한 건 모두 한 번에 모아서 비교, 검색해주는 통합 장바구니 서비스를 제공" - SOLUTION </blockquote>
 
 <img src="../assets/images/posts/mywishbag_problem2.png" alt= "mywishbag_solution" style="width: 300px;">
 
@@ -55,15 +55,23 @@ syntaxHighlighter: no
 <h6> <strong> 3. 어플리케이션 디자인 </strong></h6>
 
 1) 프로토타입: 페이퍼프로토타입 / 와이어 프로토타입 <br/>
-<img src="../assets/images/posts/mywishbag_process3.jpg" alt= "mywishbag_process3">
-<img src="../assets/images/posts/mywishbag_process4.jpg" alt= "mywishbag_process4">
+<center> <img src="../assets/images/posts/mywishbag_process3.jpg" alt= "mywishbag_process3" style="max-width:312px; max-height: 221px; width:100%; height: 100%">
+<img src="../assets/images/posts/mywishbag_process4.jpg" alt= "mywishbag_process4" style="max-width:339px; max-height: 221px; width:100%; height: 100%"> </center>
 
 2) 최종 어플리케이션 디자인
 
 <h5> <span> WORK MODELING </span> </h5>
 
-<img src="../assets/images/posts/mywishbag_workmodeling_01.jpg" alt= "mywishbag_workmodeling1"><img src="../assets/images/posts/mywishbag_workmodeling_02.jpg" alt= "mywishbag_workmodeling2"><img src="../assets/images/posts/mywishbag_workmodeling_03.jpg" alt= "mywishbag_workmodeling3"><img src="../assets/images/posts/mywishbag_workmodeling_04.jpg" alt= "mywishbag_workmodeling4"><img src="../assets/images/posts/mywishbag_workmodeling_05.jpg" alt= "mywishbag_workmodeling5">
+<center> <img src="../assets/images/posts/mywishbag_workmodeling_01.jpg" alt= "mywishbag_workmodeling1" style="max-width:310px; max-height: 442px; width:100%; height: 100%"><br/><img src="../assets/images/posts/mywishbag_workmodeling_02.jpg" alt= "mywishbag_workmodeling2" style="max-width:297px; max-height: 442px; width:100%; height: 100%"><img src="../assets/images/posts/mywishbag_workmodeling_03.jpg" alt= "mywishbag_workmodeling3" style="max-width:327px; max-height: 442px; width:100%; height: 100%"><img src="../assets/images/posts/mywishbag_workmodeling_04.jpg" alt= "mywishbag_workmodeling4" style="max-width:303px; max-height: 442px; width:100%; height: 100%"><img src="../assets/images/posts/mywishbag_workmodeling_05.jpg" alt= "mywishbag_workmodeling5" style="max-width:272px; max-height: 315px; width:100%; height: 100%"> </center>
 
 <h5> <span> DESIGN </span> </h5>
 
-<img src="../assets/images/posts/mywishbag_design1.jpg" alt= "mywishbag_design1"><img src="../assets/images/posts/mywishbag_design2.jpg" alt= "mywishbag_design2"><img src="../assets/images/posts/mywishbag_design3.jpg" alt= "mywishbag_design3"><img src="../assets/images/posts/mywishbag_design4.jpg" alt= "mywishbag_design4"><img src="../assets/images/posts/mywishbag_design5.jpg" alt= "mywishbag_design5"><img src="../assets/images/posts/mywishbag_design6.jpg" alt= "mywishbag_design6"><img src="../assets/images/posts/mywishbag_design7.jpg" alt= "mywishbag_design7"><img src="../assets/images/posts/mywishbag_design8.jpg" alt= "mywishbag_design8"><img src="../assets/images/posts/mywishbag_design9.jpg" alt= "mywishbag_design9"><img src="../assets/images/posts/mywishbag_design10.jpg" alt= "mywishbag_design10"><img src="../assets/images/posts/mywishbag_design11.jpg" alt= "mywishbag_design11"><img src="../assets/images/posts/mywishbag_design12.jpg" alt= "mywishbag_design12">
+<center> <img src="../assets/images/posts/mywishbag_design1.jpg" alt= "mywishbag_design1" style="max-width:220px; max-height: 494px; width:100%; height: 100%"><img src="../assets/images/posts/mywishbag_design2.jpg" alt= "mywishbag_design2" style="max-width:222px; max-height: 494px; width:100%; height: 100%"><img src="../assets/images/posts/mywishbag_design3.jpg" alt= "mywishbag_design3" style="max-width:220px; max-height: 494px; width:100%; height: 100%"><img src="../assets/images/posts/mywishbag_design4.jpg" alt= "mywishbag_design4" style="max-width:221px; max-height: 494px; width:100%; height: 100%"><img src="../assets/images/posts/mywishbag_design5.jpg" alt= "mywishbag_design5" style="max-width:220px; max-height: 494px; width:100%; height: 100%"><img src="../assets/images/posts/mywishbag_design6.jpg" alt= "mywishbag_design6" style="max-width:222px; max-height: 494px; width:100%; height: 100%"><img src="../assets/images/posts/mywishbag_design7.jpg" alt= "mywishbag_design7" style="max-width:220px; max-height: 494px; width:100%; height: 100%"><img src="../assets/images/posts/mywishbag_design8.jpg" alt= "mywishbag_design8" style="max-width:222px; max-height: 494px; width:100%; height: 100%"><img src="../assets/images/posts/mywishbag_design9.jpg" alt= "mywishbag_design9" style="max-width:220px; max-height: 494px; width:100%; height: 100%"><img src="../assets/images/posts/mywishbag_design10.jpg" alt= "mywishbag_design10" style="max-width:221px; max-height: 504px; width:100%; height: 100%"><img src="../assets/images/posts/mywishbag_design11.jpg" alt= "mywishbag_design11" style="max-width:220px; max-height: 504px; width:100%; height: 100%"><img src="../assets/images/posts/mywishbag_design12.jpg" alt= "mywishbag_design12" style="max-width:221px; max-height: 504px; width:100%; height: 100%"> </center>
+
+<br/>
+
+<u> INTERACTION </u>
+
+<div class="video-container"> 
+    <iframe width="100%" height="315" src="//www.youtube.com/embed/SsEZrqhel5M" frameborder="0" allowfullscreen></iframe>
+</div> 

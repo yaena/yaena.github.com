@@ -14,26 +14,50 @@ bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
 
-Walter Elias "Walt" Disney (/ˈdɪzni/; December 5, 1901 – December 15, 1966) was an American entrepreneur, cartoonist, animator, voice actor, and film producer. As a prominent figure within the American animation industry and throughout the world, he is regarded as a cultural icon, known for his influence and contributions to entertainment during the 20th century. As a Hollywood business mogul, he and his brother Roy O. Disney co-founded The Walt Disney Company.
+<h5><span> ABOUT </span> </h5>
 
-<blockquote class="largeQuote">“All our dreams can come true, if we have the courage to pursue them.” - Walt Disney</blockquote>
+2015 <br/>
+[내적동기 유지를 위한 노미피케이션 프레임워크 제안] <br/>
+학생 1명 교수 1명 (석사논문) <br/>
 
-As an animator and entrepreneur, Disney was particularly noted as a filmmaker and a popular showman, as well as an innovator in animation and theme park design. He and his staff created numerous famous fictional characters including Mickey Mouse, Donald Duck, and Goofy. Disney himself was the original voice for Mickey. During his lifetime, he won 22 Academy Awards and received four honorary Academy Awards from a total of 59 nominations, including a record of four in one year, giving him more Oscar awards and nominations than any other individual in history.
+컨셉: 건강, 독서 등 꾸준한 행위를 지속시키는데 필요로 하는 내적동기를 장기간 효과적으로 유지시킬 수 있도록 돕는 정보 커뮤니케이션 프레임워크 <br/>
 
-Disney died from lung cancer on December 15, 1966, in Burbank, California. He left behind a vast legacy, including numerous animated shorts and feature films produced during his lifetime; the company, parks, and animation studio that bear his name; and the California Institute of the Arts (CalArts).
+<h5><span> TARGET </span></h5>
+스마트폰 어플리케이션을 활용해 내적동기 관련 목표를 이루고자 하는 사용자
 
-#### Childhood
+<h5><span> BACKGROUND </span> </h5>
 
-<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}walt-childhood.jpg);"></div>
+현재 헬스 관련 앱과 같은 많은 서비스들이 동기유발 및 유지 방법으로써 게이미피케이션(gamification)을 주로 사용되지만, 내적동기 유지에 있어 게이미피케이션이 모두에게 효과적으로 적용되지는 않음 <br/>
+<blockquote class="smallQuote">“어학, 운동, 건강학 식습관 등 제가 가진 목표는 다양한데 각 목표와 관련된 모든 어플리케이션 구조는 똑같아요. 점수얻고 뱃지 받고, 순위매기고 친구랑 공유하고...” - USER NEEDS</blockquote>
 
-Disney was born on December 5, 1901, at 2156 North Tripp Avenue in Chicago's Hermosa community area, to Elias Charles Disney, who was Irish-Canadian, and Flora Call Disney, who was of German and English descent. His great-grandfather, Arundel Elias Disney, had emigrated from Gowran, County Kilkenny, Ireland where he was born in 1801. Arundel Disney was a descendant of Robert d'Isigny, a Frenchman who had travelled to England with William the Conqueror in 1066. With the d'Isigny name anglicized as "Disney", the family settled in the English village now known as Norton Disney, south of the city of Lincoln, in the county of Lincolnshire.
+<img src="../assets/images/posts/dokki_problem1.jpg" alt= "dokki_problem" style="max-width: 342px; max-heigh: 262px; width: 100%; height: 100% ">
 
-In 1878 Disney's father, Elias Charles Disney, had moved from Huron County, Ontario, Canada to the United States, at first seeking gold in California before finally settling down to farm with his parents near Ellis, Kansas, until 1884. Elias married Flora Call on January 1, 1888, in Acron, Florida, just 40 miles north of where Walt Disney World would ultimately be developed. The family moved to Chicago, Illinois in 1890, hometown of Elias' brother Robert, who helped Elias financially for most of Walt's early life. In 1906, when Walt was four, Elias and his family moved to a farm in Marceline, Missouri, where his elder brother Roy had recently purchased farmland.
+<blockquote class="smallQuote"> "경쟁적 요소를 활용한 정보 커뮤니케이션 방식인 게이미피케이션이 아닌, 내적동기유지 자극을 위한 정보 커뮤니케이션 방식으로써 노미피케이션(normification)프레임워크를 설계" - SOLUTION </blockquote>
 
-<blockquote class="u--startsWithDoubleQuote">“Mickey Mouse popped out of my mind onto a drawing pad 20 years ago on a train ride from Manhattan to Hollywood at a time when business fortunes of my brother Roy and myself were at lowest ebb and disaster seemed right around the corner.” <br/>- Walt Disney</blockquote>
+<img src="../assets/images/posts/dokki_problem2.jpg" alt= "dokki_solution" style="max-width: 318px; max-height: 262px; width: 100%; height: 100%">
 
-#### Teenage years
+<h5> <span> PROCESS </span> </h5>
 
-In 1917 Elias acquired shares in the O-Zell jelly factory in Chicago and moved his family back to the city.[24] In the fall Disney began his freshman year at McKinley High School and took night courses at the Chicago Academy of Fine Arts under the tutelage of artist and educator Louis Grell (1887–1960). He became the cartoonist for the school newspaper, drawing patriotic topics on World War I. With a hope to join the army, Disney dropped out of high school at the age of sixteen, but was rejected for being under-age.[26] Afterwards, Disney and a friend joined the Red Cross.[27] He was soon sent to France for a year, where he drove an ambulance, but only after the armistice was signed on November 11, 1918.
+<strong><big> 1. 노미피케이션 프레임워크 설계 </big> </strong> <br/>
 
-<p class="u--startsWithDoubleQuote">“Hoping to find work outside the Chicago O-Zell factory, Walt moved back to Kansas City in 1919 to begin his artistic career.” He considered becoming an actor, but decided to draw political caricatures or comic strips for a newspaper. When nobody wanted to hire him as either an artist or as an ambulance driver, his brother Roy, then working in a local bank, got Walt a temporary job through a bank colleague at the Pesmen-Rubin Art Studio, where he created advertisements for newspapers, magazines, and movie theaters. At Pesmen-Rubin he met cartoonist Ubbe Iwerks and, when their time at the studio expired, they decided to start their own commercial company together.</p>
+1) 문헌 조사: 동기, 게이미피케이션, 노미피케이션 개념 관련 문헌조사 <br/>
+2) 포커스인터뷰: 동기유지 목적으로 게이미피케이션 개념이 적용되어 제작된 어플리케이션 사용 경험이 있는 사람들을 대상으로 포커스인터뷰를 진행<br/>
+3) 노미피케이션 프레임워크 제작 및 요소 정리
+
+<img src="../assets/images/posts/dokki_process1.jpg" alt= "dokki_process1" align="top" style="max-width: 680px; max-height: 547px; width:100%; height: 100%">
+
+<strong> <big> 2. 프레임워크 유효성 검증 </big> </strong>
+
+1) 최종 어플리케이션 디자인: 노미피케이션 / 게이미피케이션 개념이 각각 적용된 웹 어플리케이션 디자인 및 제작 <br/>
+2) 실험 : 매일 독서하기 '독기讀記' 캠페인 참여자 대상으로 장기간 내적동기 유지에 적합한 개념을 확인하고자 앞서 제작한 두가지 버전의 어플리케이션 사용 패턴 실험 및 분석
+
+<h5> <span> WORK MODELING </span> </h5>
+<img src="../assets/images/posts/dokki_workmodeling1.jpg" alt= "dokki_workmodeling1" align="top" style="max-width: 367px; max-height: 442px; width:100%; height: 100%"><img src="../assets/images/posts/dokki_workmodeling2.jpg" alt= "dokki_workmodeling2" align="top" style="max-width: 293px; max-height: 442px; width:100%; height: 100%">
+<br/>
+<br/>
+
+<h5> <span> DESIGN </span> </h5>
+
+<center><img src="../assets/images/posts/dokki_design1.jpg" alt= "dokki_design1" style="max-width: 220px; max-height: 442px; width:100%; height: 100%"> <img src="../assets/images/posts/dokki_design2.jpg" alt= "dokki_design2" style="max-width: 220px; max-height: 442px; width:100%; height: 100%"><img src="../assets/images/posts/dokki_design3.jpg" alt= "kiwee_design3" style="max-width: 220px; max-height: 442px; width:100%; height: 100%"></center>
+<br/>
+<center><img src="../assets/images/posts/dokki_design4.jpg" alt= "dokki_design4" style="max-width: 400px; max-height: 439px; width:100%; height: 100%"></center>
