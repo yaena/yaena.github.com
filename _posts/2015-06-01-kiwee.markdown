@@ -19,7 +19,7 @@ syntaxHighlighter: no
 [소셜미디어 환경에서 감성전달을 위한 키네틱 타이포그래피 기술 개발] <br/>
 지식경제부 산업융합원천기술개발산업 연구과제 <br/>
 학생 6명, 교수 1명 <br/>
-역할 : 팀원, 키네틱타이포그래피 단위 움직임 요소 분석 / 키네틱타이포그래피 효과 디자인 / UI디자인 / 유저테스트 <br/>
+역할 : 팀원, 키네틱타이포그래피 단위 움직임 요소 분석 / 키네틱타이포그래피 효과 디자인 / UI디자인 / GUI디자인/ Interaction 디자인 / 유저테스트 <br/>
 
 컨셉: 무드 종류와 에너지 수준에 따라 문장 단위 텍스트에 적용할 수 있는 키네틱타이포그래피 메신저 'KIWEE' (Kinetic typography Instant messenger With Emotional Expression) 개발 <br/>
 

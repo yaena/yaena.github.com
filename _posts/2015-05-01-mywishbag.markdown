@@ -18,7 +18,7 @@ syntaxHighlighter: no
 2015 <br/>
 [CJ오쇼핑 산학 프로젝트] <br/>
 학생 4명, 교수 1명 <br/>
-역할 : 프로젝트 리더, 설문 / Contextual Design / 퍼소나 / 와이어프레임 프로토타입 / GUI 디자인 제작 <br/>
+역할 : 프로젝트 리더, 설문 / Contextual Design / 퍼소나 / 와이어프레임 프로토타입 / UI디자인 / GUI 디자인 / Interaction 디자인 <br/>
 
 컨셉: 쇼핑몰, SNS 관계없이 내가 찜한 건 모두 한 번에 모아서 비교, 검색해주는 통합 장바구니 서비스<br/>
 
