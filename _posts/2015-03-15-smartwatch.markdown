@@ -4,7 +4,7 @@ title:  "SMART WATCH"
 date:   2015-03-15 01:00:00
 date:   2015-03-15 01:00:00
 excerpt: "In Mickey's early films he was often characterized not as a hero, but as an ineffective young suitor to Minnie Mouse..."
-categories: DESIGN
+categories: 개인프로젝트
 tags:  mickey
 image:
   feature: smartwatch_bg.jpg
