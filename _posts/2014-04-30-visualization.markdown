@@ -3,9 +3,7 @@ layout: post
 title:  "컨텍스트 관계 시각화 도구"
 date:   2014-04-30 01:00:00
 date:   2014-04-30 01:00:00
-excerpt: "Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was..."
 categories: 산학프로젝트
-tags:  mickey
 image:
   feature: visualization_bg.jpg
   topPosition: -50px

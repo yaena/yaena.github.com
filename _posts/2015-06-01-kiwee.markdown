@@ -4,7 +4,6 @@ title:  "KIWEE"
 date:   2015-06-01 01:00:00
 last_modified_at:  2015-06-01 01:00:00
 categories: 산학프로젝트
-tags:  mickey
 image:
   feature: kiwee_bg.jpg
   topPosition: -50px

@@ -4,7 +4,6 @@ title:  "GRAPHIC DESIGN"
 date:   2013-08-31 01:00:00
 date:   2013-08-31 01:00:00
 categories: DESIGN
-tags:  mickey
 image:
   feature: graphicdesign_bg.jpg
   topPosition: -100px

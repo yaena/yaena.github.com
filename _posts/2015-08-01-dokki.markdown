@@ -4,7 +4,6 @@ title:  "독기(讀記)"
 date:   2015-08-01 01:00:00
 last_modified_at:  2015-08-01 01:00:00
 categories: 석사논문
-tags:  disney
 image:
   feature: dokki_bg.jpg
   topPosition: 0px

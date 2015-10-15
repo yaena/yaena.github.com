@@ -4,7 +4,6 @@ title:  "PALM READER"
 date:   2014-11-16 01:00:00
 date:   2014-11-16 01:00:00
 categories: 공모전 프로젝트
-tags:  mickey
 image:
   feature: palmreader_bg.jpg
   topPosition: -100px

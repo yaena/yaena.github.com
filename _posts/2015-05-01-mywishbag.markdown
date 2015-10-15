@@ -4,7 +4,6 @@ title:  "MY WISH BAG"
 date:   2015-05-01 01:00:00
 date:   2015-05-01 01:00:00
 categories: 산학프로젝트
-tags:  mickey
 image:
   feature: mywishbag_bg.jpg
   topPosition: -50px
