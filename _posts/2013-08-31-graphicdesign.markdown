@@ -3,7 +3,6 @@ layout: post
 title:  "GRAPHIC DESIGN"
 date:   2013-08-31 01:00:00
 date:   2013-08-31 01:00:00
-excerpt: "Mickey first appeared in comics after he had appeared in 15 commercially successful animated shorts and was easily recognized by ..."
 categories: DESIGN
 tags:  mickey
 image:

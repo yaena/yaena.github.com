@@ -3,7 +3,6 @@ layout: post
 title:  "MY WISH BAG"
 date:   2015-05-01 01:00:00
 date:   2015-05-01 01:00:00
-excerpt: "Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was..."
 categories: 산학프로젝트
 tags:  mickey
 image:

@@ -3,7 +3,6 @@ layout: post
 title:  "PALM READER"
 date:   2014-11-16 01:00:00
 date:   2014-11-16 01:00:00
-excerpt: "Mickey first appeared animated in color in Parade of the Award Nominees in 1932, however the film strip was..."
 categories: 공모전 프로젝트
 tags:  mickey
 image:

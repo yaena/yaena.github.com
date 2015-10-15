@@ -3,7 +3,6 @@ layout: post
 title:  "KIWEE"
 date:   2015-06-01 01:00:00
 last_modified_at:  2015-06-01 01:00:00
-excerpt: 소셜미디어 환경에서 감성전달을 위한 키네틱 타이포그래피 기술 개발
 categories: 산학프로젝트
 tags:  mickey
 image:
